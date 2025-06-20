@@ -1,0 +1,1 @@
+# vsd-packaging-workshop
