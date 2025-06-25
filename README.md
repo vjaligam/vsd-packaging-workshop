@@ -4,7 +4,7 @@ The semiconductor packaging workshop offered by VSD and NASSCOM using ANSYS tool
 
 fundamentals to advanced 3D integration, including hands-on simulation labs using ANSYS tools.
 
-## Module 1: Packaging Evolution – From Basics to 3D Integration.
+## [Module 1: Packaging Evolution – From Basics to 3D Integration]
 Lessons:
 -  L1: Introduction to Semiconductor Packaging and Industry Overview
 -  L2: Understanding Package Requirements and Foundational Package Types
@@ -13,7 +13,7 @@ Lessons:
 -  L5: Comparative Analysis and Selecting the Right Packaging Solution
 
 
-## Module 2: From Wafer to Package – Assembly and Manufacturing Essentials.
+## [Module 2: From Wafer to Package – Assembly and Manufacturing Essentials]
 Lessons:
 -  L1: Setting the Stage – Supply Chain and Facilities
 -  L2: Wafer Pre-Preparation – Grinding and Dicing
@@ -21,16 +21,16 @@ Lessons:
 -  L4: Flip Chip Assembly – Bump Formation and Underfill
 -  L5: Wafer Level Packaging and Conclusion
 
-## Module 3: Labs – Thermal Simulation of Semiconductor Packages with ANSYS.
+## [Module 3: Labs – Thermal Simulation of Semiconductor Packages with ANSYS]
 Practical:
 -  Flip-Chip BGA Package Thermal Analysis in ANSYS Icepak
 
-## Module 4: Ensuring Package Reliability – Testing and Performance Validation.
+## [Module 4: Ensuring Package Reliability – Testing and Performance Validation]
 Lessons:
 -  L1: Introduction to Package Testing and Electrical Functionality Checks
 -  L2: Reliability and Performance Testing of Semiconductor Packages
 
-## Module 5: Package Design and Modeling – Building a Semiconductor Package from Scratch.
+## [Module 5: Package Design and Modeling – Building a Semiconductor Package from Scratch]
 Lessons:
 -  L1: Introduction to Package Cross-Section Modeling in ANSYS Electronics Desktop (AEDT)
 -  L2: Creating the Die and Substrate in AEDT
@@ -38,7 +38,7 @@ Lessons:
 -  L4: Wire Bond Creation and Material Assignment
 -  L5: Applying Mold Compound and Finalizing the Package Model
 
-## Purpose of This Repository
+## [Purpose of This Repository]
 This repository serves as a detailed learning resource for:
 Understanding the semiconductor packaging landscape
 Exploring packaging flows like Wire Bond, Flip Chip, and WLP
