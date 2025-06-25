@@ -4,7 +4,7 @@ The semiconductor packaging workshop offered by VSD and NASSCOM using ANSYS tool
 
 fundamentals to advanced 3D integration, including hands-on simulation labs using ANSYS tools.
 
-## [Module 1: Packaging Evolution – From Basics to 3D Integration]
+## [Module 1: Packaging Evolution – From Basics to 3D Integration] (https://github.com/vjaligam/vsd-packaging-workshop/tree/main/Module%201%3A%20Packaging%20Evolution)
 Lessons:
 -  L1: Introduction to Semiconductor Packaging and Industry Overview
 -  L2: Understanding Package Requirements and Foundational Package Types
@@ -13,7 +13,7 @@ Lessons:
 -  L5: Comparative Analysis and Selecting the Right Packaging Solution
 
 
-## [Module 2: From Wafer to Package – Assembly and Manufacturing Essentials]
+## [Module 2: From Wafer to Package – Assembly and Manufacturing Essentials] (https://github.com/vjaligam/vsd-packaging-workshop/tree/main/Module%202%3A%20From%20Wafer%20to%20Package)
 Lessons:
 -  L1: Setting the Stage – Supply Chain and Facilities
 -  L2: Wafer Pre-Preparation – Grinding and Dicing
@@ -21,16 +21,16 @@ Lessons:
 -  L4: Flip Chip Assembly – Bump Formation and Underfill
 -  L5: Wafer Level Packaging and Conclusion
 
-## [Module 3: Labs – Thermal Simulation of Semiconductor Packages with ANSYS]
+## [Module 3: Labs – Thermal Simulation of Semiconductor Packages with ANSYS] (https://github.com/vjaligam/vsd-packaging-workshop/tree/main/Module%203%3A%20Labs%20Thermal%20Simulation%20of%20Semiconductor%20packages%20with_ANSYS)
 Practical:
 -  Flip-Chip BGA Package Thermal Analysis in ANSYS Icepak
 
-## [Module 4: Ensuring Package Reliability – Testing and Performance Validation]
+## [Module 4: Ensuring Package Reliability – Testing and Performance Validation] (https://github.com/vjaligam/vsd-packaging-workshop/tree/main/Module%204%3A%20%20Ensuring%20Package%20Reliability)
 Lessons:
 -  L1: Introduction to Package Testing and Electrical Functionality Checks
 -  L2: Reliability and Performance Testing of Semiconductor Packages
 
-## [Module 5: Package Design and Modeling – Building a Semiconductor Package from Scratch]
+## [Module 5: Package Design and Modeling – Building a Semiconductor Package from Scratch] (https://github.com/vjaligam/vsd-packaging-workshop/tree/main/Module%205%3A%20%20Package%20Design%20and%20Modelling) 
 Lessons:
 -  L1: Introduction to Package Cross-Section Modeling in ANSYS Electronics Desktop (AEDT)
 -  L2: Creating the Die and Substrate in AEDT
@@ -44,3 +44,7 @@ Understanding the semiconductor packaging landscape
 Exploring packaging flows like Wire Bond, Flip Chip, and WLP
 Simulating real-world thermal performance using ANSYS tools
 Building custom 3D package models from scratch in AEDT
+
+## Acknowledgements
+Dr. Tarun Kumar Agarwal
+Kunal Ghosh
