@@ -38,13 +38,6 @@ Lessons:
 -  L4: Wire Bond Creation and Material Assignment
 -  L5: Applying Mold Compound and Finalizing the Package Model
 
-## [Purpose of This Repository]
-This repository serves as a detailed learning resource for:
-Understanding the semiconductor packaging landscape
-Exploring packaging flows like Wire Bond, Flip Chip, and WLP
-Simulating real-world thermal performance using ANSYS tools
-Building custom 3D package models from scratch in AEDT
-
 ## Acknowledgements
-Dr. Tarun Kumar Agarwal
-Kunal Ghosh
+-  Dr. Tarun Kumar Agarwal
+-  Kunal Ghosh
